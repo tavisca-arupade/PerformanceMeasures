@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\bin\Release\netcoreapp2.2\ClassVSStruct.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\bin\Release\netcoreapp2.2\ClassVSStruct.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\bin\Release\netcoreapp2.2\ClassVSStruct.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\bin\Release\netcoreapp2.2\ClassVSStruct.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\bin\Release\netcoreapp2.2\ClassVSStruct.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\ClassVSStruct\obj\Release\netcoreapp2.2\ClassVSStruct.csprojAssemblyReference.cache

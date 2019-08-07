@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\bin\Release\netcoreapp2.2\ForVSForeachPerformance.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\bin\Release\netcoreapp2.2\ForVSForeachPerformance.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\bin\Release\netcoreapp2.2\ForVSForeachPerformance.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\bin\Release\netcoreapp2.2\ForVSForeachPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\bin\Release\netcoreapp2.2\ForVSForeachPerformance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ForVSForeachPerformance\obj\Release\netcoreapp2.2\ForVSForeachPerformance.pdb

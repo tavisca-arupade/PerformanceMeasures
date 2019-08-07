@@ -1,0 +1,30 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\19a37199-c2cc-465c-b935-d9a904b952fe
+// command took 2.54s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\19a37199-c2cc-465c-b935-d9a904b952fe
+// command took 4.14s and exited with 0
+// ***** Done, took 00:00:06 (6.94 sec)   *****
+// Found 2 benchmarks:
+//   TaskVSThread.TestThread: DefaultJob
+//   TaskVSThread.TestTask: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: High performance)// **************************
+// Benchmark: TaskVSThread.TestThread: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "19a37199-c2cc-465c-b935-d9a904b952fe.dll" --benchmarkName "TaskVSThreadPerformance.TaskVSThread.TestThread" --job "Default" --benchmarkId 0 in C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\19a37199-c2cc-465c-b935-d9a904b952fe\bin\Release\netcoreapp2.2
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET Core 2.2.6 (CoreCLR 4.6.27817.03, CoreFX 4.6.27818.02), 64bit RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 387282.69 ns, 387.2827 us/op
+WorkloadJitting  1: 1 op, 3004312257.79 ns, 3.0043 s/op
+
+WorkloadWarmup   1: 1 op, 3001065209.73 ns, 3.0011 s/op
+WorkloadWarmup   2: 1 op, 3001115169.92 ns, 3.0011 s/op

@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringVSStringBuilderPerfomance.pdb

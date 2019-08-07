@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\TaskVSThreadPerformance.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\TaskVSThreadPerformance.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\TaskVSThreadPerformance.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\TaskVSThreadPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\bin\Release\netcoreapp2.2\TaskVSThreadPerformance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\TaskVSThreadPerformance\obj\Release\netcoreapp2.2\TaskVSThreadPerformance.pdb

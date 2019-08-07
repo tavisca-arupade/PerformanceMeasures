@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringPerfomance.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringPerfomance.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringPerfomance.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringPerfomance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\bin\Release\netcoreapp2.2\StringPerfomance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\StringPerfomance\obj\Release\netcoreapp2.2\StringPerfomance.pdb

@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\bin\Release\netcoreapp2.2\ListVSArrayPerformance.deps.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\bin\Release\netcoreapp2.2\ListVSArrayPerformance.runtimeconfig.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\bin\Release\netcoreapp2.2\ListVSArrayPerformance.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\bin\Release\netcoreapp2.2\ListVSArrayPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\bin\Release\netcoreapp2.2\ListVSArrayPerformance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.dll
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.pdb
+C:\Users\arupade\source\repos\PerformanceAssignment\ListVSArrayPerformance\obj\Release\netcoreapp2.2\ListVSArrayPerformance.csprojAssemblyReference.cache
